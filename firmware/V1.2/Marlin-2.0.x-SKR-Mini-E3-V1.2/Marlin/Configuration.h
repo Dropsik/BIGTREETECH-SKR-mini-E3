@@ -71,7 +71,7 @@
 // @section info
 
 // Author info of this build printed to the host during boot and M115
-#define STRING_CONFIG_H_AUTHOR "(thisiskeithb, Ender-3)" // Who made the changes.
+#define STRING_CONFIG_H_AUTHOR "(Drops, Ender-3)" // Who made the changes.
 
 /**
  * *** VENDORS PLEASE READ ***
